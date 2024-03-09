@@ -1,5 +1,4 @@
 body {
-    padding: 20px;
     font-family: sans-serif;
 }
 .hero {
@@ -111,4 +110,27 @@ body {
     text-align: center;
     color: darkgray;
     font-size: 14px;
+}
+
+.gray-quote-wrapper {
+    display: flex;
+    background-color: #E5E7EB;
+    width: 100%;
+    padding: 100px;
+    justify-content: center;
+    
+}
+
+.gray-txt {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.gray-txt-wrapper {
+    max-width: 800px;
+}
+
+.author-text {
 }

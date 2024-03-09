@@ -1,0 +1,1 @@
+A simple webpage made for "The Odin Project"

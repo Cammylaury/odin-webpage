@@ -1,5 +1,6 @@
 body {
     padding: 20px;
+    font-family: sans-serif;
 }
 .hero {
     width: 100%;
@@ -109,4 +110,5 @@ body {
 .box-subtext {
     text-align: center;
     color: darkgray;
+    font-size: 14px;
 }
